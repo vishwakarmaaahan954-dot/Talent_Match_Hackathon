@@ -1,4 +1,4 @@
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = import.meta.env.VITE_API_BASE_URL || "https://talent-match-hackathon.onrender.com/";
 
 // Role 2: Upload and Parse Resume
 export async function uploadAndParseResume(file, mode = "auto") {
