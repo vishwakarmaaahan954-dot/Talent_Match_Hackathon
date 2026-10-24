@@ -1,5 +1,4 @@
-const API_BASE = import.meta.env.VITE_API_BASE_URL || "https://talent-match-hackathon.onrender.com/";
-
+const API_BASE = (import.meta.env.VITE_API_BASE_URL || "https://talent-match-hackathon.onrender.com").replace(/\/+$/, "");
 // Role 2: Upload and Parse Resume
 export async function uploadAndParseResume(file, mode = "auto") {
   const formData = new FormData();
