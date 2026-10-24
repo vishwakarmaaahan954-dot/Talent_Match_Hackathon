@@ -1,0 +1,31 @@
+{
+  "source_file": "Microsoft - Data Analyst.pdf",
+  "company": "Microsoft Corporation",
+  "role": "Data Analyst",
+  "skills": [
+    {
+      "name": "SQL",
+      "tier": "ess"
+    },
+    {
+      "name": "Schema Design",
+      "tier": "ess"
+    },
+    {
+      "name": "Data Visualization",
+      "tier": "ess"
+    },
+    {
+      "name": "Statistics",
+      "tier": "ess"
+    },
+    {
+      "name": "Communication Skills",
+      "tier": "ess"
+    },
+    {
+      "name": "Power BI",
+      "tier": "pref"
+    }
+  ]
+}

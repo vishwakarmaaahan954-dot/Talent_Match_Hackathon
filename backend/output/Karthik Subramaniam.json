@@ -1,0 +1,77 @@
+{
+  "source_type": "resume",
+  "source_file": "Karthik Subramaniam.pdf",
+  "company": "",
+  "role": "",
+  "name": "Karthik Subramaniam",
+  "email": "",
+  "education": "B.Tech, Computer Science and Engineering, Class of 2026 — CGPA 8.2 / 10",
+  "projects": [
+    "Built an end-to-end churn-prediction pipeline (SQL extraction → feature engineering → logistic regression model) on a public e-commerce dataset",
+    "Designed a normalized schema and dashboard for a college event-management system, including anomaly detection on registration spikes",
+    "Ran and analyzed an A/B test simulation comparing two onboarding flows, presenting results to a non-technical audience"
+  ],
+  "experience": [],
+  "internships": [
+    "Data Analytics intern at a fintech startup — built two recurring dashboards used by the growth team"
+  ],
+  "hackathons": [],
+  "achievements": [
+    "Runner-up, inter-college data visualization competition",
+    "Published a short analysis write-up on a public dataset, featured in a college newsletter"
+  ],
+  "certifications": [
+    "Google Data Analytics Certificate"
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category_code": "COD",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Java",
+      "category_code": "COD",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "scikit-learn",
+      "category_code": "AI",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Pandas",
+      "category_code": "AI",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Power BI",
+      "category_code": "AI",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Statistics",
+      "category_code": "AI",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "SQL",
+      "category_code": "SQL",
+      "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction → feature engineering →",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Testing",
+      "category_code": "SWE",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    }
+  ],
+  "extraction_method": "keyword"
+}

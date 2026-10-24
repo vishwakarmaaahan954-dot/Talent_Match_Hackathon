@@ -1,0 +1,39 @@
+{
+  "source_file": "Oracle - Associate Software Engineer.pdf",
+  "company": "Oracle Financial Services Software Limited",
+  "role": "Associate Software Engineer",
+  "skills": [
+    {
+      "name": "Programming",
+      "tier": "ess"
+    },
+    {
+      "name": "SQL",
+      "tier": "ess"
+    },
+    {
+      "name": "Data Structures",
+      "tier": "ess"
+    },
+    {
+      "name": "Object-Oriented Programming",
+      "tier": "ess"
+    },
+    {
+      "name": "Operating Systems",
+      "tier": "ess"
+    },
+    {
+      "name": "Quantitative Aptitude",
+      "tier": "ess"
+    },
+    {
+      "name": "Communication Skills",
+      "tier": "ess"
+    },
+    {
+      "name": "Agile",
+      "tier": "ess"
+    }
+  ]
+}

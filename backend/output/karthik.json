@@ -1,0 +1,89 @@
+{
+  "source_type": "resume",
+  "source_file": "karthik.docx",
+  "company": "",
+  "role": "",
+  "name": "Karthik Subramaniam",
+  "email": "karthik.s@example.com",
+  "education": "B.E. Information Technology, Class of 2026, CGPA 8.1 / 10",
+  "projects": [
+    "Built a churn prediction model with scikit-learn and deployed it behind a Flask REST API in Docker",
+    "Designed a PostgreSQL schema and query layer for a campus events platform"
+  ],
+  "experience": [],
+  "internships": [
+    "Data analyst intern at a retail analytics firm, built dashboards and SQL reports"
+  ],
+  "hackathons": [],
+  "achievements": [],
+  "certifications": [],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category_code": "COD",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Flask",
+      "category_code": "COD",
+      "evidence": "Built a churn prediction model with scikit-learn and deployed it behind a Flask REST API in Docker",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Machine Learning",
+      "category_code": "AI",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "scikit-learn",
+      "category_code": "AI",
+      "evidence": "Built a churn prediction model with scikit-learn and deployed it behind a Flask REST API in Docker",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Pandas",
+      "category_code": "AI",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Docker",
+      "category_code": "CLOUD",
+      "evidence": "Built a churn prediction model with scikit-learn and deployed it behind a Flask REST API in Docker",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "SQL",
+      "category_code": "SQL",
+      "evidence": "Data analyst intern at a retail analytics firm, built dashboards and SQL reports",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category_code": "SQL",
+      "evidence": "Designed a PostgreSQL schema and query layer for a campus events platform",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Git",
+      "category_code": "SWE",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "REST API",
+      "category_code": "SWE",
+      "evidence": "Built a churn prediction model with scikit-learn and deployed it behind a Flask REST API in Docker",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category_code": "SWE",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    }
+  ],
+  "extraction_method": "keyword"
+}

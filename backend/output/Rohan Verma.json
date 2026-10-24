@@ -1,0 +1,114 @@
+{
+  "source_type": "resume",
+  "source_file": "Rohan Verma.pdf",
+  "company": "",
+  "role": "",
+  "name": "RADIX Talent Match Hackathon · Test Data",
+  "email": "",
+  "education": "B.Tech, Computer Science and Engineering, Class of 2026 — CGPA 9.1 / 10",
+  "projects": [
+    "Designed and built a scalable notification service (pub-sub architecture, horizontally- scalable workers) as a personal system-design project, documented with architecture diagrams",
+    "Built a recommendation engine using collaborative filtering on a movie-ratings dataset, evaluated with precision/recall",
+    "Wrote a technical blog series on object-oriented design patterns used in real-world systems"
+  ],
+  "experience": [],
+  "internships": [
+    "Software Engineering intern at a Series-B startup — shipped a feature end-to-end including tests and CI"
+  ],
+  "hackathons": [
+    "Winner, national inter-college hackathon — built a real-time collaborative document editor"
+  ],
+  "achievements": [
+    "500+ problems solved across competitive programming platforms; open-source contributor (2 merged PRs to a mid-size Python library)"
+  ],
+  "certifications": [
+    "Self-taught via applied projects; no formal certifications listed"
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category_code": "COD",
+      "evidence": "merged PRs to a mid-size Python library)",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "C++",
+      "category_code": "COD",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Data Structures",
+      "category_code": "DSA",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Algorithms",
+      "category_code": "DSA",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Competitive Programming",
+      "category_code": "DSA",
+      "evidence": "500+ problems solved across competitive programming platforms; open-source contributor (2",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Object-Oriented",
+      "category_code": "OOD",
+      "evidence": "Wrote a technical blog series on object-oriented design patterns used in real-world",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Design Patterns",
+      "category_code": "OOD",
+      "evidence": "Wrote a technical blog series on object-oriented design patterns used in real-world",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Machine Learning",
+      "category_code": "AI",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Docker",
+      "category_code": "CLOUD",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "SQL",
+      "category_code": "SQL",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Git",
+      "category_code": "SWE",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Software Engineering",
+      "category_code": "SWE",
+      "evidence": "Software Engineering intern at a Series-B startup — shipped a feature end-to-end",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "System Design",
+      "category_code": "SYSD",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Operating Systems",
+      "category_code": "OS",
+      "evidence": "Listed in the skills section",
+      "confidence": "low"
+    }
+  ],
+  "extraction_method": "keyword"
+}

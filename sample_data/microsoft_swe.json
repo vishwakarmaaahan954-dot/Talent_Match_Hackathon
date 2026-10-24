@@ -1,0 +1,39 @@
+{
+  "source_file": "Microsoft - Software Engineer.pdf",
+  "company": "Microsoft Corporation",
+  "role": "Software Engineer",
+  "skills": [
+    {
+      "name": "Data Structures & Algorithms",
+      "tier": "ess"
+    },
+    {
+      "name": "Java",
+      "tier": "ess"
+    },
+    {
+      "name": "Operating Systems",
+      "tier": "ess"
+    },
+    {
+      "name": "Computer Networks",
+      "tier": "ess"
+    },
+    {
+      "name": "Object-Oriented Design",
+      "tier": "ess"
+    },
+    {
+      "name": "System Design",
+      "tier": "ess"
+    },
+    {
+      "name": "Testing Strategy",
+      "tier": "ess"
+    },
+    {
+      "name": "Azure",
+      "tier": "pref"
+    }
+  ]
+}

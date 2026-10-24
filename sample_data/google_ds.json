@@ -1,0 +1,31 @@
+{
+  "source_file": "Google LLC - Data Scientist.pdf",
+  "company": "Google LLC",
+  "role": "Data Scientist",
+  "skills": [
+    {
+      "name": "SQL",
+      "tier": "ess"
+    },
+    {
+      "name": "A/B Testing",
+      "tier": "ess"
+    },
+    {
+      "name": "Statistics",
+      "tier": "ess"
+    },
+    {
+      "name": "Machine Learning",
+      "tier": "ess"
+    },
+    {
+      "name": "Communication Skills",
+      "tier": "ess"
+    },
+    {
+      "name": "Data Visualization",
+      "tier": "pref"
+    }
+  ]
+}

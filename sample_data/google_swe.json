@@ -1,0 +1,51 @@
+{
+  "source_file": "Google LLC - Software Engineer.pdf",
+  "company": "Google LLC",
+  "role": "Software Engineer (SWE)",
+  "skills": [
+    {
+      "name": "Data Structures & Algorithms",
+      "tier": "ess"
+    },
+    {
+      "name": "C++",
+      "tier": "ess"
+    },
+    {
+      "name": "Operating Systems",
+      "tier": "ess"
+    },
+    {
+      "name": "Computer Networks",
+      "tier": "ess"
+    },
+    {
+      "name": "Object-Oriented Design",
+      "tier": "ess"
+    },
+    {
+      "name": "System Design",
+      "tier": "ess"
+    },
+    {
+      "name": "Testing Strategy",
+      "tier": "ess"
+    },
+    {
+      "name": "CI/CD Concepts",
+      "tier": "ess"
+    },
+    {
+      "name": "Distributed Systems",
+      "tier": "pref"
+    },
+    {
+      "name": "Large Codebase",
+      "tier": "pref"
+    },
+    {
+      "name": "Open-Source Contributions",
+      "tier": "pref"
+    }
+  ]
+}

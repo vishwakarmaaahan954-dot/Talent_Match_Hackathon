@@ -1,0 +1,31 @@
+{
+  "source_file": "Oracle - Application Support Analyst.pdf",
+  "company": "Oracle Financial Services Software Limited",
+  "role": "Application Support Analyst",
+  "skills": [
+    {
+      "name": "Basic SQL",
+      "tier": "ess"
+    },
+    {
+      "name": "Linux",
+      "tier": "ess"
+    },
+    {
+      "name": "Networking",
+      "tier": "ess"
+    },
+    {
+      "name": "Problem Solving",
+      "tier": "ess"
+    },
+    {
+      "name": "Communication Skills",
+      "tier": "ess"
+    },
+    {
+      "name": "Ticketing System",
+      "tier": "pref"
+    }
+  ]
+}
